@@ -3,7 +3,7 @@ import os
 
 data = {'Name':['Alice','Bob','Charlie'],
         'Age':[77,45,23],
-        'City':['Vadodara','Pune','Bangalore']}
+        'City':['Vadodara','Pune','chennaihehehe']}
 df = pd.DataFrame(data)
 data_dir = 'data'
 os.makedirs(data_dir,exist_ok=True)
